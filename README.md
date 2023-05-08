@@ -1,5 +1,5 @@
 # Léeme
-# Medición experimental de la constante del tiempo de un circuito RC en carga y descarga
+# Medición experimental de la aceleración gravitacional por medio de ondas estacionarias
 ## Instrucciones 
 La versión final de su repositorio debe contener:
 
@@ -7,7 +7,7 @@ La versión final de su repositorio debe contener:
 
 2. Un **documento R script**  que contenga la o las funciones usadas para el correcto análisis de los datos de su experimento asignado el cual llamarán **funciones_nombre_experimento_grupo_n**.
 
-3. Un **documento pdf** con su informe de laboratorio que contenga lo solicitado en el documento de lineamientos
+3. Un **documento pdf** con su análisis de laboratorio que contenga lo solicitado en el documento de lineamientos
 
 4. El **documento Rnw** que genera su pdf anterior con un nombre adecuado.
 5. Una **presentación en pdf** haciendo uso de la clase beamer que contenga lo necesario para presentar su trabajo ante un auditorio.
